@@ -1,5 +1,7 @@
 # Портфолио проектов
 
+
+
 ## [Cup IT 2026 — Витрина ОТП Банка](https://github.com/daria788/my_projects/tree/cup-it-2026)
 
 ### О проекте
